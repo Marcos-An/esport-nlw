@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://noemia.vercel.app/" target="_blank"> 
+  <a href="#> 
     <img src="web/public/banner-readme.png" alt="Logo">
   </a>
 
@@ -57,7 +57,7 @@
 
 ## About The Project
 
-<a href="https://noemia.vercel.app/" target="_blank">
+<a href="#"
   <img src="web/public/screen.png" alt="Logo">
 </a> 
 <br> 
