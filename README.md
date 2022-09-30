@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="#> 
+  <a href="#"> 
     <img src="web/public/banner-readme.png" alt="Logo">
   </a>
 
