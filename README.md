@@ -89,7 +89,7 @@ Esports NLW is a project to practice some skills in a curse, building a Full Sta
 1. Clone the repo
    ```bash
    
-   git clone https://github.com/Marcos-An/noemia.git
+   git clone https://github.com/Marcos-An/esports-nlw.git
    
    ```
 2. Open Server and Web folder then install node modules with yarn/npm packages
