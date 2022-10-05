@@ -62,7 +62,7 @@
 </a> 
 <br> 
 <br> 
-Esports NLW is a project to practice some skills in a curse, building a Full Stack project with React, React Native, Tailwind and Prisma. Here you can create an ad to find your duo to play your favorite game 🎮
+Esports NLW is a project to practice some skills in a course, building a Full Stack project with React, React Native, Tailwind and Prisma. Here you can create an ad to find your duo to play your favorite game 🎮
 <br> 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
